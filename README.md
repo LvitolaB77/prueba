@@ -1,2 +1,3 @@
-# prueba
-repositorio del modulo 2 de prepcourse henry
+Luis david Vitola Buelvas
+Este proyecto es una prueba de como crear unrepositorio enla nuebe desde github y clonarlo y enviarlo a mi escritorio
+
